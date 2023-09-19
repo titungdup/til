@@ -4,18 +4,23 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_2 TIL and counting..._
+_3 TIL and counting..._
 
 ---
 
 ### Categories
 
 - [Shell](#shell)
+- [Typescript](#typescript)
 - [Vercel](#vercel)
 
 ### Shell
 
 - [Rename a file or folder](shell/rename-file-folder.md)
+
+### Typescript
+
+- [Record utility type](typescript/record-utility-type.md)
 
 ### Vercel
 
