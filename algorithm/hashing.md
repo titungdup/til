@@ -1,0 +1,4 @@
+- Hashing is a technique of mapping a large chunk of data into small tables using a hashing function.
+- It uniquely identifies a specific item from a collection of similar items.
+- It can quickly identify a specific value within a given array.
+- It creates a unique hash code for each element in the array and then stores the hash code instead of the actual element. This allows for quick lookup when searching for a specific value, as well as easy identification of any duplicates.

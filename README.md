@@ -4,19 +4,26 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_4 TIL and counting..._
+_5 TIL and counting..._
 
 ---
 
 ### Categories
 
+- [Algorithm](#algorithm)
 - [Javascript](#javascript)
 - [Shell](#shell)
 - [Typescript](#typescript)
 - [Vercel](#vercel)
 
+### Algorithm
+
+- [Hashing](algorithm/hashing.md)
+
 ### Javascript
+
 - [Loop continue statement](javascript/loop-continue-statement.md)
+
 ### Shell
 
 - [Rename a file or folder](shell/rename-file-folder.md)
