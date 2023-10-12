@@ -4,7 +4,7 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_5 TIL and counting..._
+_6 TIL and counting..._
 
 ---
 
@@ -23,6 +23,7 @@ _5 TIL and counting..._
 ### Javascript
 
 - [Loop continue statement](javascript/loop-continue-statement.md)
+- [Function composition](javascript/function-composition.md)
 
 ### Shell
 
