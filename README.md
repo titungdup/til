@@ -4,13 +4,14 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_7 TIL and counting..._
+_8 TIL and counting..._
 
 ---
 
 ### Categories
 
 - [Algorithm](#algorithm)
+- [CSS](#css)
 - [Javascript](#javascript)
 - [Shell](#shell)
 - [Typescript](#typescript)
@@ -19,6 +20,10 @@ _7 TIL and counting..._
 ### Algorithm
 
 - [Hashing](algorithm/hashing.md)
+
+### CSS
+
+- [Flex-flow](css/flex-flow.md)
 
 ### Javascript
 
