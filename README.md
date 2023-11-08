@@ -4,7 +4,7 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_8 TIL and counting..._
+_9 TIL and counting..._
 
 ---
 
@@ -12,6 +12,7 @@ _8 TIL and counting..._
 
 - [Algorithm](#algorithm)
 - [CSS](#css)
+- [Git](#git)
 - [Javascript](#javascript)
 - [Shell](#shell)
 - [Typescript](#typescript)
@@ -24,6 +25,10 @@ _8 TIL and counting..._
 ### CSS
 
 - [Flex-flow](css/flex-flow.md)
+
+### Git
+
+- [Automate test with GitHub Actions](git/automate-test-with-github-actions.md)
 
 ### Javascript
 
