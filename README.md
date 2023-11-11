@@ -4,7 +4,7 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_9 TIL and counting..._
+_10 TIL and counting..._
 
 ---
 
@@ -32,6 +32,7 @@ _9 TIL and counting..._
 
 ### Javascript
 
+- [Associative array](javascript/associative-array.md)
 - [Function composition](javascript/function-composition.md)
 - [Loop continue statement](javascript/loop-continue-statement.md)
 - [Type coercion](javascript/type-coercion.md)
