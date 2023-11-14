@@ -4,7 +4,7 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_10 TIL and counting..._
+_11 TIL and counting..._
 
 ---
 
@@ -29,6 +29,7 @@ _10 TIL and counting..._
 ### Git
 
 - [Automate test with GitHub Actions](git/automate-test-with-github-actions.md)
+- [Run git hooks](git/run-git-hooks.md)
 
 ### Javascript
 
