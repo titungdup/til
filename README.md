@@ -4,7 +4,7 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_12 TIL and counting..._
+_14 TIL and counting..._
 
 ---
 
@@ -26,6 +26,7 @@ _12 TIL and counting..._
 ### CSS
 
 - [Flex-flow](css/flex-flow.md)
+- [System color](css/system-color.md)
 
 ### Git
 
@@ -50,6 +51,7 @@ _12 TIL and counting..._
 ### Typescript
 
 - [Record utility type](typescript/record-utility-type.md)
+- [Union and Intersection](typescript/union-and-intersetion.md)
 
 ### Vercel
 
