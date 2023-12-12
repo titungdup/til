@@ -4,7 +4,7 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_14 TIL and counting..._
+_16 TIL and counting..._
 
 ---
 
@@ -50,7 +50,9 @@ _14 TIL and counting..._
 
 ### Typescript
 
+- [Exclude utility type](typescript/exclude-utility-type.md)
 - [Record utility type](typescript/record-utility-type.md)
+- [string vs String](typescript/string-vs-String.md)
 - [Union and Intersection](typescript/union-and-intersetion.md)
 
 ### Vercel
