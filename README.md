@@ -4,7 +4,7 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_17 TIL and counting..._
+_18 TIL and counting..._
 
 ---
 
@@ -16,6 +16,7 @@ _17 TIL and counting..._
 - [HTML](#html)
 - [Javascript](#javascript)
 - [Shell](#shell)
+- [Storybook](#storybook)
 - [Typescript](#typescript)
 - [Vercel](#vercel)
 
@@ -48,6 +49,10 @@ _17 TIL and counting..._
 ### Shell
 
 - [Rename a file or folder](shell/rename-file-folder.md)
+
+### Storybook
+
+- [Resolve path alias](storybook/resolve-path-alias.md)
 
 ### Typescript
 
