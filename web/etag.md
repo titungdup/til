@@ -1,0 +1,3 @@
+- ETag is a HTTP response header which is an identifier for a specific version of a resource.
+- It lets caches be more efficient and save bandwidth, as a web server does not need to resend a full response if the content was not changed.
+- Also help to prevent simultaneous updates of a resource from overwriting each other.

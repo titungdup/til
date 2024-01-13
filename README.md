@@ -4,7 +4,7 @@
 
 A second brain to store all the things that I learn day to day. Inspired by [Jbrandchaud's TIL.](https://github.com/jbranchaud/til)
 
-_18 TIL and counting..._
+_19 TIL and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _18 TIL and counting..._
 - [Storybook](#storybook)
 - [Typescript](#typescript)
 - [Vercel](#vercel)
+- [Web](#web)
 
 ### Algorithm
 
@@ -64,3 +65,7 @@ _18 TIL and counting..._
 ### Vercel
 
 - [Integrate vercel analytics](vercel/integrate-vercel-analytics.md)
+
+### web
+
+- [ETag](web/etag.md)
